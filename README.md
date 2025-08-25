@@ -1,4 +1,4 @@
-<img width="514" height="42" alt="image" src="https://github.com/user-attachments/assets/a6448623-d9a6-47bb-ad0d-10a49342cf00" /># 📚 A Feedback-Driven and Self-Optimizing RAG Framework for Enterprise Knowledge Infrastructure
+# A Feedback-Driven and Self-Optimizing RAG Framework for Enterprise Knowledge Infrastructure
 
 ---
 
