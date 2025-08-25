@@ -1,4 +1,4 @@
-# A Feedback-Driven and Self-Optimizing RAG Framework for Enterprise Knowledge Infrastructure
+<img width="514" height="42" alt="image" src="https://github.com/user-attachments/assets/a6448623-d9a6-47bb-ad0d-10a49342cf00" /># 📚 A Feedback-Driven and Self-Optimizing RAG Framework for Enterprise Knowledge Infrastructure
 
 ---
 
@@ -54,5 +54,13 @@ Real-world enterprise deployments demonstrate that **5D-RAG** achieves:
 > ✅ **Conclusion:**  
 5D-RAG introduces a **feedback-driven, modular RAG paradigm** that scales with enterprise needs.  
 Its **agent-based architecture**, **online learning**, and **plug-and-play extensions** make it an ideal foundation for building **intelligent, future-proof knowledge infrastructures**.
+
+---
+
+## 🔗 Resources & Contact
+
+- 🌐 **[🔗 产品试用链接](http://60.205.157.180:5002/#/newlogin)**  
+- 📄 **[📘 报告下载](https://example.com/report)**  
+- 📧 **联系邮箱：** [business@zhongshuruizhi.com](mailto:business@zhongshuruizhi.com)  
 
 ---
