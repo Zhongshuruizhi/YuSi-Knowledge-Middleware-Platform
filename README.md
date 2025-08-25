@@ -60,7 +60,7 @@ Its **agent-based architecture**, **online learning**, and **plug-and-play exten
 ## 🔗 Resources & Contact
 
 - 🌐 **[🔗 产品试用链接](http://60.205.157.180:5002/#/newlogin)**  
-- 📄 **[📘 报告下载](https://example.com/report)**  
+- 📄 **[📘 报告下载](https://github.com/Zhongshuruizhi/YuSi-Knowledge-Middleware-Platform/blob/8c94decc4264f5124768ce957a193952f24536f3/technical%20report/ZSRZ_5D_RAG_tech_report.pdf)**  
 - 📧 **联系邮箱：** [business@zhongshuruizhi.com](mailto:business@zhongshuruizhi.com)  
 
 ---
